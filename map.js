@@ -19,7 +19,7 @@ const padydinti = (arr, multiplyer) => {
 /*******************************************************************/
 
 const mapDvygubas = list.map(n => n * 2);
-const mapTrygubas = list.map(n => n + 5);
+const mapTrygubas = list.map(n => n * 3);
 
 console.log(list);
 console.log(mapDvygubas);
